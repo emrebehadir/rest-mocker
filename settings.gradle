@@ -1,2 +1,3 @@
+include ':restMockerLib'
 include ':app'
 rootProject.name = "Rest Moker"
